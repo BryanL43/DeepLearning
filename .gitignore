@@ -172,3 +172,4 @@ cython_debug/
 
 # Environment Directory
 TorchSpeedUpEnv/
+LogisticRegressionEnv/
