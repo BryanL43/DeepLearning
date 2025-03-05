@@ -40,6 +40,7 @@ dependencies:
   - ipykernel=6.29.5=pyh4bbf305_0
   - ipython=8.32.0=pyh9ab4c32_0
   - jedi=0.19.2=pyhd8ed1ab_1
+  - joblib=1.4.2=pyhd8ed1ab_1
   - jupyter_client=8.6.3=pyhd8ed1ab_1
   - jupyter_core=5.7.2=py312haa95532_0
   - kiwisolver=1.4.8=py312hc790b64_0
@@ -78,7 +79,7 @@ dependencies:
   - matplotlib=3.10.0=py312h2e8e312_0
   - matplotlib-base=3.10.0=py312h90004f6_0
   - matplotlib-inline=0.1.7=pyhd8ed1ab_1
-  - mkl<2025
+  - mkl=2020.4=hb70f87d_311
   - munkres=1.1.4=pyh9f0ad1d_0
   - nest-asyncio=1.6.0=pyhd8ed1ab_1
   - numpy=2.2.3=py312h3150e54_0
@@ -109,11 +110,14 @@ dependencies:
   - pyzmq=26.2.0=py312h5da7b33_0
   - qhull=2020.2=hc790b64_5
   - qt6-main=6.8.2=h1259614_0
+  - scikit-learn=1.6.1=py312h816cc57_0
+  - scipy=1.15.2=py312h451d5c4_0
   - setuptools=75.8.0=py312haa95532_0
   - six=1.17.0=pyhd8ed1ab_0
   - sqlite=3.45.3=h2bbff1b_0
   - stack_data=0.6.3=pyhd8ed1ab_1
   - tbb=2022.0.0=h214f63a_0
+  - threadpoolctl=3.5.0=pyhc1e730c_0
   - tk=8.6.13=h5226925_1
   - tornado=6.4.2=py312h827c3e9_0
   - traitlets=5.14.3=pyhd8ed1ab_1
